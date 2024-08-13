@@ -16,6 +16,18 @@ This repository contains a series of projects that explore the creation and mana
 - **Description**: 
   This project involves the creation of tools and agents to manage a customer outreach campaign. It includes both custom-built tools like SentimentAnalysisTool and CrewAI's built-in tools. Agents are tasked with profiling leads and conducting personalized outreach, leveraging the tools to complete their tasks. The project demonstrates how to integrate and use these tools within the CrewAI framework.
 
+### 4. Automate Event Planning
+- **Description**: 
+  This project focuses on automating the event planning process using a multi-agent system. Agents are assigned roles such as Venue Coordinator, Logistics Manager, and Marketing & Communications Agent. The agents collaborate to find and book venues, manage logistics, and promote the event. The project demonstrates how to coordinate multiple tasks across different domains to efficiently plan a successful event.  
+
+### 5. Financial Trading Strategy Development
+- **Description**: 
+  This project involves the creation of a multi-agent system to develop and execute financial trading strategies. Agents such as Data Analyst, Trading Strategy Developer, Trade Advisor, and Risk Advisor work together to monitor market data, create trading strategies, plan trade executions, and assess risks. The project showcases how AI agents can be utilized to optimize trading processes and make informed decisions in the financial markets.
+
+### 6. Job Application Enhancement
+- **Description**: 
+  This project aims to enhance the job application process using a multi-agent system. Agents take on roles like Tech Job Researcher, Personal Profiler, Resume Strategist, and Interview Preparer. They work together to analyze job postings, compile applicant profiles, tailor resumes, and prepare interview materials. The project highlights the use of AI agents in optimizing and personalizing the job application experience.
+
 ## Getting Started
 
 To run these projects, ensure that you have the necessary libraries installed. Each notebook begins with the installation and importation of required libraries, followed by the setup and execution of the multi-agent system.
