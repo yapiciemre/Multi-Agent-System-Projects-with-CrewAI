@@ -27,12 +27,10 @@ class CustomCodeInterpreterTool(BaseTool):
     args_schema: Type[BaseModel] = CodeInterpreterSchema
     code: Optional[str] = None
 
-    # Define image_name and container_name as Pydantic fields
     image_name: str = Field(..., description="Name of the Docker image to use.")
     container_name: str = Field(..., description="Name of the Docker container to use.")
 
     def __init__(self, image_name: str, container_name: str):
-        # Use Pydantic's BaseModel initialization
         super().__init__(image_name=image_name, container_name=container_name)
 
     @staticmethod
