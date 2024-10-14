@@ -31,3 +31,12 @@ This repository contains a series of projects that explore the creation and mana
 ## Getting Started
 
 To run these projects, ensure that you have the necessary libraries installed. Each notebook begins with the installation and importation of required libraries, followed by the setup and execution of the multi-agent system.
+
+## References
+These projects were developed by following the resources and guidelines provided by the following:
+
+- [Multi-Agent Systems with CrewAI - DeepLearning.AI Course](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/)
+- [CrewAI Documentation](https://docs.crewai.com/introduction)
+- [Groq Quickstart Guide](https://console.groq.com/docs/quickstart)
+
+
